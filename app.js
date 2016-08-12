@@ -10,7 +10,7 @@ $(document).ready(function () {
 	//strike through
 	//http://www.w3schools.com/jsref/jsref_strike.asp
 	$('.shopping-list').on('click', '.shopping-item-toggle', function() {
-		$(this).closest('li').children('.shopping-item').css('text-decoration','line-through');
+		$(this).closest('li').children('.shopping-item').toggle().css('text-decoration','line-through');
 				console.log('new line-through works');
 		//"toggle, switch, swap" line through
 
