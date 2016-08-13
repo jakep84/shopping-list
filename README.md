@@ -13,5 +13,5 @@ The Shopping List App challenge from Thinkful's Front End Web Development course
 ## Authors
 
 ### Jake Priddy
-*Initial work* - [Thinkful-Ed](https://github.com/Thinkful-Ed/shopping-list)
+*Initial layout* - [Thinkful-Ed](https://github.com/Thinkful-Ed/shopping-list)
 
