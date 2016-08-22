@@ -1,0 +1,25 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "Shopping list App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakep84/shopping-list.git"
+  },
+  "author": "Jake Priddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakep84/shopping-list/issues"
+  },
+  "homepage": "https://github.com/jakep84/shopping-list#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-open": "^2.0.0"
+  }
+}
